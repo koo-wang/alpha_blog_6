@@ -26,6 +26,7 @@
   background-postion: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 425;
 }
 
 html,
@@ -35,9 +36,10 @@ body {
 
 #page-content {
   flex: 1 0 auto;
-  background-color: lightgrey;
+  background-color:lightgrey;
 }
 
 #sticky-footer {
   flex-shrink: none;
 }
+
